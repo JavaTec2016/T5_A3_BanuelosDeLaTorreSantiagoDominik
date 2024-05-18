@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">T5_A3_BanuelosDeLaTorreSantiagoDominik</string>
+
+    <string name="btnMod">%</string>
+    <string name="btnRoot">√</string>
+    <string name="btnSqr">^</string>
+    <string name="btnRacional">1/x</string>
+
+    <string name="btnCE">CE</string>
+    <string name="btnC">C</string>
+    <string name="btnBorrar">⌫</string>
+    <string name="btnDiv">/</string>
+
+    <string name="btnMult">x</string>
+    <string name="btnResta">-</string>
+    <string name="btnSuma">+</string>
+
+    <string name="btnInvertir">±</string>
+    <string name="btnPunto">.</string>
+    <string name="btnRes">=</string>
+
+    <string name="btnMC">MC</string>
+    <string name="btnMR">MR</string>
+    <string name="btnMplus">M+</string>
+    <string name="btnMminus">M-</string>
+    <string name="btnMS">MS</string>
+    <string name="btnMhis">M~</string>
+</resources>
